@@ -4,9 +4,11 @@
 # Link download model : https://drive.google.com/file/d/1PbobBnANK6RvBZW6XRJgpLOEsrVea_i5/view?usp=drive_link
 
 Hướng dẫn(trong code đã comment khá chi tiết) :
+
 1.Xây model 
 
 Làm việc trên bộ dữ liệu Suicide_Detection.csv sử dụng LSTM đọc báo cáo để hiểu chi tiết.
+
 2.Lấy dữ liệu
 
 Lấy dữ liệu từ bài viết trên trang cá nhân của tất cả dối tượng có trong data/links_facebook để làm dữ liệu phân loại cho từng cá nhân sau này
